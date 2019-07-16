@@ -1,0 +1,15 @@
+{
+  "name": "ts-basic",
+  "version": "1.0.0",
+  "description": "Basic Typescript project setup and some practice files",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jude",
+  "license": "ISC"
+}
